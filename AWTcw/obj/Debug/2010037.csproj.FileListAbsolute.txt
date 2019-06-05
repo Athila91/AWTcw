@@ -1,0 +1,3 @@
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\AWTcw\AWTcw\obj\Debug\2010037.csprojResolveAssemblyReference.cache
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\AWTcw\AWTcw\obj\Debug\AWTcw.dll
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\AWTcw\AWTcw\obj\Debug\AWTcw.pdb
